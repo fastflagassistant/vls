@@ -51,5 +51,11 @@ my personal fast flag list, given to by trusted people
     "FFlagEnableInGameMenuSongbirdABTest": "False"
 }
 ```
+### What people call "Wall Glide"
+```json
+ {
+     "DFIntMaximumUnstickForceInGs": "-10"
+ }
+```
 
 

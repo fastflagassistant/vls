@@ -6,7 +6,7 @@ my personal fast flag list, given to by trusted people
 - https://github.com/fastdotspace/fastflags.space/blob/master/FastFlags/Abusive.md
 - https://github.com/Dantezz025/Roblox-Fast-Flags
 - https://github.com/1x4z/1
-- broken ahh lists
+- outdated ahh lists
 - 
 ### Mesh Noclip V1
 ```json

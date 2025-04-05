@@ -36,6 +36,7 @@ my personal fast flag list, given to by trusted people
 }
 ```
 ### No knockback in certain games
+- In slap battles its bannable (USE AT YOUR OWN RISK)
 ```json
 {
    "DFIntGameNetLocalSpaceMaxSendIndex": "100000",
@@ -43,6 +44,7 @@ my personal fast flag list, given to by trusted people
 }
 ```
 ### ESP??
+- You cant see through walls with it
 ```json
 {
     "FFlagDebugAvatarChatVisualization": "True",

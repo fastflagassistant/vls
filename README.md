@@ -17,7 +17,7 @@ my personal fast flag list, given to by trusted people
 ```
 ### Mesh Noclip V2
 
-#### (DISCLAIMER: THIS IS USED FOR TERRAIN CLIPPING TOO)
+- Used for terrain noclip too
 ```json
 
 {
@@ -52,6 +52,7 @@ my personal fast flag list, given to by trusted people
 }
 ```
 ### What people call "Wall Glide"
+- Change to higher negative values for more distance
 ```json
  {
      "DFIntMaximumUnstickForceInGs": "-10"

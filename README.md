@@ -2,6 +2,12 @@
 my personal fast flag list, given to by trusted people
 # Fast Flags
 
+
+
+
+
+
+
 # Mesh Noclip V1
 {
     "DFIntPhysicsDecompForceUpgradeVersion": "1500"

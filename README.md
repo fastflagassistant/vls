@@ -1,3 +1,3 @@
 # JXNFlags
-hi
-hi
+my personal fast flag list, given to by trusted people
+# Fast Flags

@@ -68,5 +68,11 @@ my personal fast flag list, given to by trusted people
     "DFIntNonSolidFloorPercentForceApplication": "-5000"
 }
 ```
+### No animations
+```json
+{
+    "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
+}
+```
 
 

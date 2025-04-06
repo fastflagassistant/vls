@@ -60,7 +60,8 @@ my personal fast flag list, given to by trusted people
      "DFIntMaximumUnstickForceInGs": "-10"
  }
 ```
-### Fling parts? idk
+### Fling parts
+- Stand ontop of a part to fling it
 ```json
 {
     "DFIntSolidFloorPercentForceApplication": "-1000",

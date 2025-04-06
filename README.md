@@ -60,5 +60,12 @@ my personal fast flag list, given to by trusted people
      "DFIntMaximumUnstickForceInGs": "-10"
  }
 ```
+### Fling parts? idk
+```json
+{
+    "DFIntSolidFloorPercentForceApplication": "-1000",
+    "DFIntNonSolidFloorPercentForceApplication": "-5000"
+}
+```
 
 

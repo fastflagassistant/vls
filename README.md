@@ -74,5 +74,12 @@ my personal fast flag list, given to by trusted people
     "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
 }
 ```
+### Max raycast distance
+- breaks leg collision and some games under 3
+```json
+{
+    "DFIntRaycastMaxDistance": "3"
+}
+```
 
 

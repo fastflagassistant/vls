@@ -83,5 +83,62 @@ my personal fast flag list, given to by trusted people
     "DFIntRaycastMaxDistance": "3"
 }
 ```
-
+### Fling you or a part that is below you
+```json
+{
+"DFIntSolidFloorMassMultTenth": "-2147483647"
+"DFIntSolidFloorPercentForceApplication": "-450",
+"DFIntNonSolidFloorPercentForceApplication": "-3200"
+}
+```
+### Fling you or a part that is below you V2 (More stable)
+```json
+{
+    "DFIntSolidFloorPercentForceApplication": "-1000",
+    "DFIntNonSolidFloorPercentForceApplication": "-5000"
+}
+```
+### Drive vehicles slow (Not verified)
+```json
+{
+    "DFIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": "0"
+}
+```
+### Drunk
+```json
+{
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
+### You dont have animations for the server but you do for your client
+```json
+{
+    "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
+}
+```
+### Well known speed fflag (Buggy)
+```json
+{
+     "DFIntMaximumUnstickForceInGs": "-1"
+     "DFIntRaycastMaxDistance": "0"
+}
+```
+## Invisible 1 (Freezes you in place)
+```json
+{
+    "DFIntGameNetOptimizeParallelPhysicsSendAssemblyBatch": "-1",
+    "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "-1"
+}
+```
+### Invisible 2 (restricts the client from moving through the server)
+```json
+{
+    "DFIntPhysicsSenderMaxBandwidthBps": "1",
+    "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
+}
+```
+- MORE UPDATES SOOOONNNNNNNNNNNNNNNNNNN
+- join discord (its empty bc im lonely :( )
 

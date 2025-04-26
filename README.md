@@ -109,7 +109,6 @@ my personal fast flag list, given to by trusted people
 {
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
     "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
-    "DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
 ### You dont have animations for the server but you do for your client

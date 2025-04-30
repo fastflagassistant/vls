@@ -111,6 +111,14 @@ my personal fast flag list, given to by trusted people
     "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
 }
 ```
+### Even funnier drunk fflag
+```json
+{
+  "DFIntMaxAltitudePDHipHeightPercent": "-10000",
+  "DFIntNewPDAltitudeNoForceZonePercent": "14673",
+  "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999"
+}
+```
 ### You dont have animations for the server but you do for your client
 ```json
 {

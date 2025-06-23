@@ -149,3 +149,26 @@ my personal fast flag list, given to by trusted people
 - MORE UPDATES SOOOONNNNNNNNNNNNNNNNNNN
 - join discord (its empty bc im lonely :( )
 
+
+SKELETON ESP WHAT HOW WHEN WHY
+```json
+{
+  "DFFlagDebugDrawEnable": "True",
+  "DFFlagAnimatorDrawSkeletonAll": "True",
+  "DFIntAnimatorDrawSkeletonScalePercent": "6",
+  "DFFlagAnimatorDrawSkeletonAttachments": "False",
+  "DFFlagAnimatorDrawSkeletonText": "False",
+  "FFlagDataModelPatcherForceLocal": "True"
+}
+```
+
+how it works:
+
+{
+  "DFFlagDebugDrawEnable": "True", - enables?
+  "DFFlagAnimatorDrawSkeletonAll": "True", draws the skeleton for all
+  "DFIntAnimatorDrawSkeletonScalePercent": "6", scale for it idk
+  "DFFlagAnimatorDrawSkeletonAttachments": "False", shows you the animation constraints
+  "DFFlagAnimatorDrawSkeletonText": "False", self explanatory
+  "FFlagDataModelPatcherForceLocal": "True" just keep this on
+}

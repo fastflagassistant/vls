@@ -163,7 +163,7 @@ SKELETON ESP WHAT HOW WHEN WHY
 ```
 
 how it works:
-
+```json
 {
   "DFFlagDebugDrawEnable": "True", - enables?
   "DFFlagAnimatorDrawSkeletonAll": "True", draws the skeleton for all
@@ -172,3 +172,4 @@ how it works:
   "DFFlagAnimatorDrawSkeletonText": "False", self explanatory
   "FFlagDataModelPatcherForceLocal": "True" just keep this on
 }
+```

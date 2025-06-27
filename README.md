@@ -1,6 +1,4 @@
-
-my personal fast flag list, given to by trusted people
-- content used to collect fast flags
+fastflag collection
 
 ### Mesh Noclip V1
 ```json

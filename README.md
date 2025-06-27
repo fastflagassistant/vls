@@ -35,16 +35,6 @@ fastflag collection
    "DFIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": "0"
 }
 ```
-### ESP??
-- You cant see through walls with it
-```json
-{
-    "FFlagDebugAvatarChatVisualization": "True",
-    "FFlagEnableInGameMenuChromeABTest4": "False",
-    "FFlagEnableInGameMenuChrome": "False",
-    "FFlagEnableInGameMenuSongbirdABTest": "False"
-}
-```
 ### What people call "Wall Glide"
 - Change to higher negative values for more distance
 ```json
@@ -136,10 +126,6 @@ fastflag collection
     "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
-- MORE UPDATES SOOOONNNNNNNNNNNNNNNNNNN
-- join discord (its empty bc im lonely :( )
-
-
 SKELETON ESP WHAT HOW WHEN WHY
 ```json
 {
@@ -155,11 +141,11 @@ SKELETON ESP WHAT HOW WHEN WHY
 how it works:
 ```json
 {
-  "DFFlagDebugDrawEnable": "True", - enables?
-  "DFFlagAnimatorDrawSkeletonAll": "True", draws the skeleton for all
-  "DFIntAnimatorDrawSkeletonScalePercent": "6", scale for it idk
-  "DFFlagAnimatorDrawSkeletonAttachments": "False", shows you the animation constraints
-  "DFFlagAnimatorDrawSkeletonText": "False", self explanatory
-  "FFlagDataModelPatcherForceLocal": "True" just keep this on
+  "DFFlagDebugDrawEnable": "True", - self explanatory
+  "DFFlagAnimatorDrawSkeletonAll": "True", self explanatory
+  "DFIntAnimatorDrawSkeletonScalePercent": "6", idk why you'll need this but dont remove it just incase
+  "DFFlagAnimatorDrawSkeletonAttachments": "False", draws a line to the shortest path of the animation constraints from the bones
+  "DFFlagAnimatorDrawSkeletonText": "False", really laggy, dont use this
+  "FFlagDataModelPatcherForceLocal": "True" self explanatory
 }
 ```

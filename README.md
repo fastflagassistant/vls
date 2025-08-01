@@ -66,7 +66,7 @@ fastflag collection
 ### Fling you or a part that is below you
 ```json
 {
-"DFIntSolidFloorMassMultTenth": "-2147483647"
+"DFIntSolidFloorMassMultTenth": "-2147483647",
 "DFIntSolidFloorPercentForceApplication": "-450",
 "DFIntNonSolidFloorPercentForceApplication": "-3200"
 }
@@ -109,7 +109,7 @@ fastflag collection
 ###### consistency depends on avatar
 ```json
 {
-     "DFIntMaximumUnstickForceInGs": "-5"
+     "DFIntMaximumUnstickForceInGs": "-5",
      "DFIntRaycastMaxDistance": "0"
 }
 ```

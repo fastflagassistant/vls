@@ -105,10 +105,11 @@ fastflag collection
     "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
 }
 ```
-### Well known speed fflag (Buggy)
+### Less known speed fflag (Buggy)
+###### consistency depends on avatar
 ```json
 {
-     "DFIntMaximumUnstickForceInGs": "-1"
+     "DFIntMaximumUnstickForceInGs": "-5"
      "DFIntRaycastMaxDistance": "0"
 }
 ```

@@ -129,6 +129,14 @@ fastflag collection
      "DFIntRaycastMaxDistance": "0"
 }
 ```
+### speed in ink games
+###### can bring you out of the map if set to -250 or above
+```json
+{
+     "DFIntMaximumUnstickForceInGs": "-100",
+     "DFIntRaycastMaxDistance": "0"
+}
+```
 ## Invisible 1 (Freezes you in place)
 ```json
 {

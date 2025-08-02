@@ -113,6 +113,22 @@ fastflag collection
      "DFIntRaycastMaxDistance": "0"
 }
 ```
+###  climb high walls in doors (best for the front of bookshelves)
+###### triggers figure
+``` json
+{
+     "DFIntMaximumUnstickForceInGs": "-200",
+     "DFIntRaycastMaxDistance": "0"
+}
+```
+###  climb small walls in doors (best for the back of bookshelves)
+###### triggers figure
+``` json
+{
+     "DFIntMaximumUnstickForceInGs": "-35",
+     "DFIntRaycastMaxDistance": "0"
+}
+```
 ## Invisible 1 (Freezes you in place)
 ```json
 {

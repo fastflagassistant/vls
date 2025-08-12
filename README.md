@@ -1,5 +1,5 @@
 # fastflag collection v1
-#### the reason why its called vls is because it stands for sybau
+#### i made it public now shut up
 
 ### Mesh Noclip V1
 ```json
